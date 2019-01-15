@@ -1,0 +1,21 @@
+c:\users\arialan\documents\visual studio 2012\Projects\identifejforms\identifejforms\bin\Debug\identifejforms.exe.config
+c:\users\arialan\documents\visual studio 2012\Projects\identifejforms\identifejforms\bin\Debug\identifejforms.exe
+c:\users\arialan\documents\visual studio 2012\Projects\identifejforms\identifejforms\bin\Debug\identifejforms.pdb
+c:\users\arialan\documents\visual studio 2012\Projects\identifejforms\identifejforms\obj\Debug\identifejforms.identif.resources
+c:\users\arialan\documents\visual studio 2012\Projects\identifejforms\identifejforms\obj\Debug\identifejforms.Properties.Resources.resources
+c:\users\arialan\documents\visual studio 2012\Projects\identifejforms\identifejforms\obj\Debug\identifejforms.csproj.GenerateResource.Cache
+c:\users\arialan\documents\visual studio 2012\Projects\identifejforms\identifejforms\obj\Debug\identifejforms.exe
+c:\users\arialan\documents\visual studio 2012\Projects\identifejforms\identifejforms\obj\Debug\identifejforms.pdb
+c:\users\arialan\documents\visual studio 2012\Projects\identifejforms\identifejforms\obj\Debug\identifejforms.csprojResolveAssemblyReference.cache
+C:\Users\AriAlan\Documents\tareas tec\5°\la wea fome\Matriz hecha\identifejforms\identifejforms\bin\Debug\identifejforms.exe.config
+C:\Users\AriAlan\Documents\tareas tec\5°\la wea fome\Matriz hecha\identifejforms\identifejforms\obj\Debug\identifejforms.exe
+C:\Users\AriAlan\Documents\tareas tec\5°\la wea fome\Matriz hecha\identifejforms\identifejforms\obj\Debug\identifejforms.pdb
+C:\Users\AriAlan\Documents\tareas tec\5°\la wea fome\Matriz hecha\identifejforms\identifejforms\obj\Debug\identifejforms.csprojResolveAssemblyReference.cache
+C:\Users\AriAlan\Documents\tareas tec\5°\la wea fome\Matriz hecha\identifejforms\identifejforms\obj\Debug\identifejforms.identif.resources
+C:\Users\AriAlan\Documents\tareas tec\5°\la wea fome\Matriz hecha\identifejforms\identifejforms\obj\Debug\identifejforms.Properties.Resources.resources
+C:\Users\AriAlan\Documents\tareas tec\5°\la wea fome\Matriz hecha\identifejforms\identifejforms\obj\Debug\identifejforms.csproj.GenerateResource.Cache
+C:\Users\AriAlan\Documents\tareas tec\5°\la wea fome\Matriz hecha\identifejforms\identifejforms\bin\Debug\identifejforms.exe
+C:\Users\AriAlan\Documents\tareas tec\5°\la wea fome\Matriz hecha\identifejforms\identifejforms\bin\Debug\identifejforms.pdb
+F:\tareas tec\5°\la wea fome\Matriz hecha\identifejforms\identifejforms\bin\Debug\identifejforms.exe.config
+F:\tareas tec\5°\la wea fome\Matriz hecha\identifejforms\identifejforms\obj\Debug\identifejforms.exe
+F:\tareas tec\5°\la wea fome\Matriz hecha\identifejforms\identifejforms\obj\Debug\identifejforms.pdb
